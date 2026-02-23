@@ -1,0 +1,212 @@
+{
+  "videos": [
+    {
+      "videoId": "vid_001",
+      "videoUrl": "https://github.com/Lordy2p/teza/raw/refs/heads/main/vid1.mp4",
+      "videoTitle": "Introduction to Critical Thinking",
+      "videoUIFormat": "timedOverlay",
+      "watchQuestionMode": true,
+      "questions": [
+        {
+          "timeStampMs": 5000,
+          "questionText": "What is critical thinking primarily about?",
+          "options": [
+            "Memorizing facts",
+            "Analyzing information logically",
+            "Following instructions",
+            "Guessing answers"
+          ],
+          "correctIndex": 1,
+          "explanation": "Critical thinking involves analyzing and evaluating information logically."
+        }
+      ]
+    },
+
+    {
+      "videoId": "vid_002",
+      "videoUrl": "https://github.com/Lordy2p/teza/raw/refs/heads/main/vid2.mp4",
+      "videoTitle": null,
+      "videoUIFormat": "timedOverlay",
+      "watchQuestionMode": true,
+      "questions": [
+        {
+          "timeStampMs": 3000,
+          "questionText": "Is observation important in learning?",
+          "options": null,
+          "correctIndex": null,
+          "explanation": null
+        }
+      ]
+    },
+
+    {
+      "videoId": "vid_003",
+      "videoUrl": "https://github.com/Lordy2p/teza/raw/refs/heads/main/vid1.mp4",
+      "videoTitle": "Quick Logic Test",
+      "videoUIFormat": "timedOverlay",
+      "watchQuestionMode": true,
+      "questions": [
+        {
+          "timeStampMs": 4000,
+          "questionText": "2 + 2 equals?",
+          "options": [
+            "3",
+            "4"
+          ],
+          "correctIndex": 1,
+          "explanation": null
+        },
+        {
+          "timeStampMs": 4000,
+          "questionText": "Select the even number.",
+          "options": [
+            "1",
+            "3",
+            "4",
+            "5"
+          ],
+          "correctIndex": 2,
+          "explanation": "Even numbers are divisible by 2."
+        }
+      ]
+    },
+
+    {
+      "videoId": "vid_004",
+      "videoUrl": "https://github.com/Lordy2p/teza/raw/refs/heads/main/vid2.mp4",
+      "videoTitle": "Reflection Session",
+      "videoUIFormat": "atEndOverlay",
+      "watchQuestionMode": true,
+      "questions": [
+        {
+          "timeStampMs": null,
+          "questionText": "How did this video make you feel?",
+          "options": null,
+          "correctIndex": null,
+          "explanation": null
+        }
+      ]
+    },
+
+    {
+      "videoId": "vid_005",
+      "videoUrl": "https://github.com/Lordy2p/teza/raw/refs/heads/main/vid1.mp4",
+      "videoTitle": "Advanced Reasoning",
+      "videoUIFormat": "timedOverlay",
+      "watchQuestionMode": false,
+      "questions": [
+        {
+          "timeStampMs": 6000,
+          "questionText": "Which is a valid logical conclusion?",
+          "options": [
+            "All birds fly",
+            "Some birds fly",
+            "No birds fly"
+          ],
+          "correctIndex": 1,
+          "explanation": "Not all birds fly, but some do."
+        }
+      ]
+    },
+
+    {
+      "videoId": "vid_006",
+      "videoUrl": "https://github.com/Lordy2p/teza/raw/refs/heads/main/vid2.mp4",
+      "videoTitle": "No Questions Video",
+      "videoUIFormat": "timedOverlay",
+      "watchQuestionMode": true,
+      "questions": []
+    },
+
+    {
+      "videoId": "vid_007",
+      "videoUrl": "https://github.com/Lordy2p/teza/raw/refs/heads/main/vid1.mp4",
+      "videoTitle": "Multiple Timestamps",
+      "videoUIFormat": "timedOverlay",
+      "watchQuestionMode": true,
+      "questions": [
+        {
+          "timeStampMs": 2000,
+          "questionText": "First checkpoint question?",
+          "options": [
+            "Yes",
+            "No"
+          ],
+          "correctIndex": 0,
+          "explanation": null
+        },
+        {
+          "timeStampMs": 9000,
+          "questionText": "Second checkpoint question?",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctIndex": 0,
+          "explanation": "This statement is true."
+        }
+      ]
+    },
+
+    {
+      "videoId": "vid_008",
+      "videoUrl": "https://github.com/Lordy2p/teza/raw/refs/heads/main/vid2.mp4",
+      "videoTitle": null,
+      "videoUIFormat": "atEndOverlay",
+      "watchQuestionMode": true,
+      "questions": [
+        {
+          "timeStampMs": null,
+          "questionText": "Which option best summarizes the video?",
+          "options": [
+            "Educational",
+            "Entertaining",
+            "Confusing"
+          ],
+          "correctIndex": 0,
+          "explanation": "The video was designed to educate."
+        }
+      ]
+    },
+
+    {
+      "videoId": "vid_009",
+      "videoUrl": "https://github.com/Lordy2p/teza/raw/refs/heads/main/vid1.mp4",
+      "videoTitle": "Minimal Choice",
+      "videoUIFormat": "timedOverlay",
+      "watchQuestionMode": true,
+      "questions": [
+        {
+          "timeStampMs": 7000,
+          "questionText": "Agree?",
+          "options": [
+            "Agree"
+          ],
+          "correctIndex": 0,
+          "explanation": null
+        }
+      ]
+    },
+
+    {
+      "videoId": "vid_010",
+      "videoUrl": "https://github.com/Lordy2p/teza/raw/refs/heads/main/vid2.mp4",
+      "videoTitle": "Final Evaluation",
+      "videoUIFormat": "atEndOverlay",
+      "watchQuestionMode": true,
+      "questions": [
+        {
+          "timeStampMs": null,
+          "questionText": "Was the concept clear?",
+          "options": [
+            "Yes",
+            "Somewhat",
+            "No"
+          ],
+          "correctIndex": 0,
+          "explanation": "Most users should find the concept clear."
+        }
+      ]
+    }
+  ]
+}
