@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "1.0.0",
+  "videos": [
+    {
+      "videoId": "vid001",
+      "videoUrl": "https://github.com/Lordy2p/teza/raw/refs/heads/main/vid1.mp4",
+      "videoTitle": "Introduction to Physics",
+      "aspectRatio": "16:9",
+      "questionOverlayUIFormat": "timedOverlay",
+      "questions": [
+        {
+          "timestamp": 4000,
+          "items": [
+            {
+              "questionText": "What is the SI unit of force?",
+              "options": ["Joule", "Newton", "Watt", "Pascal"],
+              "correctAnswerIndex": 1,
+              "explanation": "The newton (symbol: N) is the SI unit of force, named after Sir Isaac Newton."
+            }
+          ]
+        },
+        {
+          "timestamp": 8000,
+          "items": [
+            {
+              "questionText": "Which of these is a scalar quantity?",
+              "options": ["Velocity", "Force", "Energy", "Acceleration"],
+              "correctAnswerIndex": 2,
+              "explanation": "Scalar quantities have only magnitude, not direction. Energy is a scalar; the others are vectors."
+            },
+            {
+              "questionText": "Did you know? Light travels at approximately 300,000 km/s.",
+              "options": null,
+              "correctAnswerIndex": null,
+              "explanation": "This is a display‑only fact – no answer required."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "videoId": "vid002",
+      "videoUrl": "https://github.com/Lordy2p/teza/raw/refs/heads/main/vid2.mp4",
+      "videoTitle": "World History: Key Events",
+      "aspectRatio": "9:16",
+      "questionOverlayUIFormat": "terminalOverlay",
+      "questions": [
+        {
+          "timestamp": null,
+          "items": [
+            {
+              "questionText": "In which year did World War II end?",
+              "options": ["1944", "1945", "1946", "1947"],
+              "correctAnswerIndex": 1,
+              "explanation": "World War II ended in 1945 with the surrender of Germany in May and Japan in September."
+            },
+            {
+              "questionText": "The Cold War was primarily between which two superpowers?",
+              "options": ["USA and China", "USA and Soviet Union", "UK and Germany", "France and Russia"],
+              "correctAnswerIndex": 1,
+              "explanation": "The Cold War (1947–1991) was a geopolitical tension between the United States and the Soviet Union."
+            },
+            {
+              "questionText": "This video covered major events of the 20th century.",
+              "options": null,
+              "correctAnswerIndex": null,
+              "explanation": "Review the timeline above for key dates."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
