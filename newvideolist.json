@@ -12,7 +12,7 @@
           "timestamp": 4000,
           "items": [
             {
-              "questionText": "What is the SI unit of force?",
+              "questionText": "What is the SI unit of force ?",
               "options": ["Joule", "Newton", "Watt", "Pascal"],
               "correctAnswerIndex": 1,
               "explanation": "The newton (symbol: N) is the SI unit of force, named after Sir Isaac Newton."
@@ -23,7 +23,7 @@
           "timestamp": 8000,
           "items": [
             {
-              "questionText": "Which of these is a scalar quantity?",
+              "questionText": "Which of these is a scalar quantity This seems like a trivial question, but do you really realize that it's a very technical question with so many jagged edges, intriguing considerations and an avalanche of preposterous consternation within the conflagration of exceptional exclusives ruminating within the confines of linear contemplations sophisticated in savvy elaborations and nuclear elucidations; seriously ponder before you consider an answer?",
               "options": ["Velocity", "Force", "Energy", "Acceleration"],
               "correctAnswerIndex": 2,
               "explanation": "Scalar quantities have only magnitude, not direction. Energy is a scalar; the others are vectors."
@@ -49,8 +49,8 @@
           "timestamp": null,
           "items": [
             {
-              "questionText": "In which year did World War II end?",
-              "options": ["1944", "1945", "1946", "1947"],
+              "questionText": "In which year did World War II end. This seems like a trivial question, but do you really realize that it's a very technical question with so many jagged edges, intriguing considerations and an avalanche of preposterous consternation within the conflagration of exceptional exclusives ruminating within the confines of linear contemplations sophisticated in savvy elaborations and nuclear elucidations; seriously ponder before you consider an answer?",
+              "options": ["1944", "1945. This seems like a trivial question, but do you really realize that it's a very technical question with so many jagged edges, intriguing considerations and an avalanche of preposterous consternation within the conflagration of exceptional exclusives ruminating within the confines of linear contemplations sophisticated in savvy elaborations and nuclear elucidations; seriously ponder before you consider an answer", "1946", "1947"],
               "correctAnswerIndex": 1,
               "explanation": "World War II ended in 1945 with the surrender of Germany in May and Japan in September."
             },
@@ -58,7 +58,7 @@
               "questionText": "The Cold War was primarily between which two superpowers?",
               "options": ["USA and China", "USA and Soviet Union", "UK and Germany", "France and Russia"],
               "correctAnswerIndex": 1,
-              "explanation": "The Cold War (1947–1991) was a geopolitical tension between the United States and the Soviet Union."
+              "explanation": "The Cold War (1947–1991) was a geopolitical tension between the United States and the Soviet Union. This seems like a trivial question, but do you really realize that it's a very technical question with so many jagged edges, intriguing considerations and an avalanche of preposterous consternation within the conflagration of exceptional exclusives ruminating within the confines of linear contemplations sophisticated in savvy elaborations and nuclear elucidations; seriously ponder before you consider an answer"
             },
             {
               "questionText": "This video covered major events of the 20th century.",
