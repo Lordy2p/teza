@@ -50,7 +50,7 @@
           "items": [
             {
               "questionText": "In which year did World War II end. This seems like a trivial question, but do you really realize that it's a very technical question with so many jagged edges, intriguing considerations and an avalanche of preposterous consternation within the conflagration of exceptional exclusives ruminating within the confines of linear contemplations sophisticated in savvy elaborations and nuclear elucidations; seriously ponder before you consider an answer?",
-              "options": ["1944", "1945. This seems like a trivial question, but do you really realize that it's a very technical question with so many jagged edges, intriguing considerations and an avalanche of preposterous consternation within the conflagration of exceptional exclusives ruminating within the confines of linear contemplations sophisticated in savvy elaborations and nuclear elucidations; seriously ponder before you consider an answer", "1946", "1947"],
+              "options": ["1944", "1945. This seems like a trivial question, but do you really realize that it's a very technical question with so many jagged edges, intriguing considerations and an avalanche of preposterous consternation within the conflagration of exceptional exclusives ruminating within the confines of linear contemplations sophisticated in savvy elaborations and nuclear elucidations;", "1946", "1947"],
               "correctAnswerIndex": 1,
               "explanation": "World War II ended in 1945 with the surrender of Germany in May and Japan in September."
             },
