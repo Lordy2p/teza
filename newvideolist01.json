@@ -2,7 +2,7 @@
   "schemaVersion": "1.0.0",
   "videos": [
     {
-      "videoId": "vid001",
+      "videoId": "vid001x",
       "videoUrl": "https://github.com/Lordy2p/teza/raw/refs/heads/main/vid2.mp4",
       "videoTitle": "02Introduction to Physics Nice And Cool Stuff Magnanimously And Thoughtfully Ignited",
       "aspectRatio": "9:16",
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "videoId": "vid002",
+      "videoId": "vid002x",
       "videoUrl": "https://github.com/Lordy2p/teza/raw/refs/heads/main/vid2.mp4",
       "videoTitle": "World History: Key Events",
       "aspectRatio": "9:16",
