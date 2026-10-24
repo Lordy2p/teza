@@ -2,7 +2,7 @@
   "schemaVersion": "1.0.0",
   "videos": [
     {
-      "videoId": "vid001a",
+      "videoId": "vid001c",
       "videoUrl": "https://github.com/Lordy2p/teza/raw/refs/heads/main/vid2.mp4",
       "videoTitle": "Introduction to Physics",
       "aspectRatio": "9:16",
