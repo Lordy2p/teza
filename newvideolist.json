@@ -2,10 +2,10 @@
   "schemaVersion": "1.0.0",
   "videos": [
     {
-      "videoId": "vid001xcg",
-      "videoUrl": "https://github.com/Lordy2p/teza/raw/refs/heads/main/vid1.mp4",
+      "videoId": "vid001a",
+      "videoUrl": "https://github.com/Lordy2p/teza/raw/refs/heads/main/vid2.mp4",
       "videoTitle": "Introduction to Physics",
-      "aspectRatio": "9:16",
+      "aspectRatio": "16:9",
       "questionOverlayUIFormat": "timedOverlay",
       "questions": [
         {
