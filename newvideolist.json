@@ -5,7 +5,7 @@
       "videoId": "vid001a",
       "videoUrl": "https://github.com/Lordy2p/teza/raw/refs/heads/main/vid2.mp4",
       "videoTitle": "Introduction to Physics",
-      "aspectRatio": "16:9",
+      "aspectRatio": "9:16",
       "questionOverlayUIFormat": "timedOverlay",
       "questions": [
         {
