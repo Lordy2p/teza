@@ -2,7 +2,7 @@
   "schemaVersion": "1.0.0",
   "videos": [
     {
-      "videoId": "vid001vx",
+      "videoId": "vid001so",
       "videoUrl": "https://github.com/Lordy2p/teza/raw/refs/heads/main/solape01.mp4",
       "videoTitle": "Introduction to Physics",
       "aspectRatio": "9:16",
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "videoId": "vid002",
+      "videoId": "vid002ib",
       "videoUrl": "https://github.com/Lordy2p/teza/raw/refs/heads/main/ibidun02.mp4",
       "videoTitle": "World History: Key Events",
       "aspectRatio": "9:16",
