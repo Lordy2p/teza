@@ -3,9 +3,9 @@
   "videos": [
     {
       "videoId": "vid001vx",
-      "videoUrl": "https://github.com/Lordy2p/teza/raw/refs/heads/main/vid1.mp4",
+      "videoUrl": "https://github.com/Lordy2p/teza/raw/refs/heads/main/solape01.mp4",
       "videoTitle": "Introduction to Physics",
-      "aspectRatio": "16:9",
+      "aspectRatio": "9:16",
       "questionOverlayUIFormat": "timedOverlay",
       "questions": [
         {
@@ -40,7 +40,7 @@
     },
     {
       "videoId": "vid002",
-      "videoUrl": "https://github.com/Lordy2p/teza/raw/refs/heads/main/vid2.mp4",
+      "videoUrl": "https://github.com/Lordy2p/teza/raw/refs/heads/main/ibidun02.mp4",
       "videoTitle": "World History: Key Events",
       "aspectRatio": "9:16",
       "questionOverlayUIFormat": "terminalOverlay",
